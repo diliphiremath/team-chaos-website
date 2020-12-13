@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/team-chaos-website/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/team-chaos-website/static/js/main.d0f5f25c.chunk.js",
+    "main.js.map": "/team-chaos-website/static/js/main.d0f5f25c.chunk.js.map",
+    "runtime-main.js": "/team-chaos-website/static/js/runtime-main.d5595a8d.js",
+    "runtime-main.js.map": "/team-chaos-website/static/js/runtime-main.d5595a8d.js.map",
+    "static/js/2.a9ae4850.chunk.js": "/team-chaos-website/static/js/2.a9ae4850.chunk.js",
+    "static/js/2.a9ae4850.chunk.js.map": "/team-chaos-website/static/js/2.a9ae4850.chunk.js.map",
+    "static/js/3.68badcbd.chunk.js": "/team-chaos-website/static/js/3.68badcbd.chunk.js",
+    "static/js/3.68badcbd.chunk.js.map": "/team-chaos-website/static/js/3.68badcbd.chunk.js.map",
+    "index.html": "/team-chaos-website/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/team-chaos-website/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.a9ae4850.chunk.js.LICENSE.txt": "/team-chaos-website/static/js/2.a9ae4850.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/team-chaos-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5595a8d.js",
+    "static/js/2.a9ae4850.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.d0f5f25c.chunk.js"
+  ]
+}
