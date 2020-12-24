@@ -3,7 +3,7 @@ import Members from './Members/Members';
 
 function App() {
   return (
-    <div className="App">
+    <div className='container'>
       <Members/>
     </div>
   );

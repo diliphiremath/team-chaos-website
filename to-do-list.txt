@@ -1,3 +1,5 @@
 1. Members 
 - find all the account id - Done
-- integrate openDota api to get Members
+- integrate openDota api to get Members - Done
+- use Rank_tire to get current rank
+https://github.com/odota/web/blob/master/src/components/Player/Header/PlayerHeader.jsx

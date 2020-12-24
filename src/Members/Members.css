@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+
+.col-title{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+
+.header{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0.15449929971988796) 0%, rgba(0,0,0,0.19091386554621848) 100%);
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+a {
+    text-decoration: none;
+  }
+  
+  .name {
+    font-family: 'Homemade Apple', cursive;
+    font-size: xx-large;
+  }
+
+  .title{
+    font-family: 'Indie Flower', cursive;
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 2%;
+  }
