@@ -39,13 +39,13 @@ function Members() {
         if (leaderboardRank <= 10) {
           // top 10 and top 100 positions have different icons
           iconPath =
-            "http://localhost:3000/team-chaos-website/assets/images/dota2/rank_icons/rank_icon_8c.png";
+            `${window.location.origin}/team-chaos-website/assets/images/dota2/rank_icons/rank_icon_8c.png`;
         } else if (leaderboardRank <= 100) {
           iconPath =
-            "http://localhost:3000/team-chaos-website/assets/images/dota2/rank_icons/rank_icon_8b.png";
+            `${window.location.origin}/team-chaos-website/assets/images/dota2/rank_icons/rank_icon_8b.png`;
         } else {
           iconPath =
-            "http://localhost:3000/team-chaos-website/assets/images/dota2/rank_icons/rank_icon_8.png";
+            `${window.location.origin}/team-chaos-website/assets/images/dota2/rank_icons/rank_icon_8.png`;
         }
         medalElement = (
           <div className="rankTierContainer">
@@ -73,8 +73,8 @@ function Members() {
           star = 7;
         }
 
-        const starPath = `http://localhost:3000/team-chaos-website/assets/images/dota2/rank_icons/rank_star_${star}.png`;
-        iconPath = `http://localhost:3000/team-chaos-website/assets/images/dota2/rank_icons/rank_icon_${Math.floor(
+        const starPath = `${window.location.origin}/team-chaos-website/assets/images/dota2/rank_icons/rank_star_${star}.png`;
+        iconPath = `${window.location.origin}/team-chaos-website/assets/images/dota2/rank_icons/rank_icon_${Math.floor(
           intRankTier / 10
         )}.png`;
         medalElement = (
@@ -100,7 +100,7 @@ function Members() {
     } else {
       // uncalibrated players
       const iconPath =
-        "http://localhost:3000/team-chaos-website/assets/images/dota2/rank_icons/rank_icon_0.png";
+        `${window.location.origin}/team-chaos-website/assets/images/dota2/rank_icons/rank_icon_0.png`;
       medalElement = (
         <div className="rankTierContainer">
           <div
