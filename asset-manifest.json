@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/team-chaos-website/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/team-chaos-website/static/js/main.d0f5f25c.chunk.js",
-    "main.js.map": "/team-chaos-website/static/js/main.d0f5f25c.chunk.js.map",
-    "runtime-main.js": "/team-chaos-website/static/js/runtime-main.d5595a8d.js",
-    "runtime-main.js.map": "/team-chaos-website/static/js/runtime-main.d5595a8d.js.map",
-    "static/js/2.a9ae4850.chunk.js": "/team-chaos-website/static/js/2.a9ae4850.chunk.js",
-    "static/js/2.a9ae4850.chunk.js.map": "/team-chaos-website/static/js/2.a9ae4850.chunk.js.map",
-    "static/js/3.68badcbd.chunk.js": "/team-chaos-website/static/js/3.68badcbd.chunk.js",
-    "static/js/3.68badcbd.chunk.js.map": "/team-chaos-website/static/js/3.68badcbd.chunk.js.map",
+    "main.css": "/team-chaos-website/static/css/main.d4a587e7.chunk.css",
+    "main.js": "/team-chaos-website/static/js/main.7a64720c.chunk.js",
+    "main.js.map": "/team-chaos-website/static/js/main.7a64720c.chunk.js.map",
+    "runtime-main.js": "/team-chaos-website/static/js/runtime-main.5fbc097c.js",
+    "runtime-main.js.map": "/team-chaos-website/static/js/runtime-main.5fbc097c.js.map",
+    "static/css/2.4d98ed14.chunk.css": "/team-chaos-website/static/css/2.4d98ed14.chunk.css",
+    "static/js/2.35056ca0.chunk.js": "/team-chaos-website/static/js/2.35056ca0.chunk.js",
+    "static/js/2.35056ca0.chunk.js.map": "/team-chaos-website/static/js/2.35056ca0.chunk.js.map",
+    "static/js/3.177449e7.chunk.js": "/team-chaos-website/static/js/3.177449e7.chunk.js",
+    "static/js/3.177449e7.chunk.js.map": "/team-chaos-website/static/js/3.177449e7.chunk.js.map",
     "index.html": "/team-chaos-website/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/team-chaos-website/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.a9ae4850.chunk.js.LICENSE.txt": "/team-chaos-website/static/js/2.a9ae4850.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/team-chaos-website/static/media/logo.6ce24c58.svg"
+    "static/css/2.4d98ed14.chunk.css.map": "/team-chaos-website/static/css/2.4d98ed14.chunk.css.map",
+    "static/css/main.d4a587e7.chunk.css.map": "/team-chaos-website/static/css/main.d4a587e7.chunk.css.map",
+    "static/js/2.35056ca0.chunk.js.LICENSE.txt": "/team-chaos-website/static/js/2.35056ca0.chunk.js.LICENSE.txt",
+    "static/media/team_chaos.2f95b887.png": "/team-chaos-website/static/media/team_chaos.2f95b887.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5595a8d.js",
-    "static/js/2.a9ae4850.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.d0f5f25c.chunk.js"
+    "static/js/runtime-main.5fbc097c.js",
+    "static/css/2.4d98ed14.chunk.css",
+    "static/js/2.35056ca0.chunk.js",
+    "static/css/main.d4a587e7.chunk.css",
+    "static/js/main.7a64720c.chunk.js"
   ]
 }
