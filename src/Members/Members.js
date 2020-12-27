@@ -54,7 +54,7 @@ function Members() {
               data-hint={imgDescription}
               data-hint-position="top"
             >
-              <img className="rankMedal-icon" width='50' height='50' src={iconPath} alt="icon" />
+              <img className="rankMedal-icon" src={iconPath} alt="icon" />
               {leaderboardRank && (
                 <span className="rankMedal-board">{leaderboardRank}</span>
               )}
